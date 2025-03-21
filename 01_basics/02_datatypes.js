@@ -10,7 +10,7 @@ let age = 18            //number
 let isLoggedin = true    //booleann
 
 
-//number --> int 
+//number
 //bigint --> not used mostly
 //string ---> "" or ''
 //boolean --> true or false
